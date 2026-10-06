@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fieldtraining/fieldtraining.iml" filepath="$PROJECT_DIR$/fieldtraining/fieldtraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/iti(fieldtraining).iml" filepath="$PROJECT_DIR$/.idea/iti(fieldtraining).iml" />
+      <module fileurl="file://$PROJECT_DIR$/session_2/session_2.iml" filepath="$PROJECT_DIR$/session_2/session_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session_2_ques2/session_2_ques2.iml" filepath="$PROJECT_DIR$/session_2_ques2/session_2_ques2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session_2_ques3/session_2_ques3.iml" filepath="$PROJECT_DIR$/session_2_ques3/session_2_ques3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session_3/session_3.iml" filepath="$PROJECT_DIR$/session_3/session_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session_3_Q2/session_3_Q2.iml" filepath="$PROJECT_DIR$/session_3_Q2/session_3_Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session_3_Q3/session_3_Q3.iml" filepath="$PROJECT_DIR$/session_3_Q3/session_3_Q3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1_tasks/week1_tasks.iml" filepath="$PROJECT_DIR$/week1_tasks/week1_tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2_tasks/week2_tasks.iml" filepath="$PROJECT_DIR$/week2_tasks/week2_tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3_tasks/week3_tasks.iml" filepath="$PROJECT_DIR$/week3_tasks/week3_tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4_tasks/week4_tasks.iml" filepath="$PROJECT_DIR$/week4_tasks/week4_tasks.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+/* Task 1 styling — everything lives here, nothing is hard-coded in Java. */
+
+#root-pane {
+    /* Background gradient that complements the cool blue/purple text below. */
+    -fx-background-color: linear-gradient(to bottom right, #1b1f3b, #3a1c5e);
+}
+
+#hello-label {
+    /* Custom font family + large size. */
+    -fx-font-family: "Trebuchet MS";
+    -fx-font-size: 56px;
+    -fx-font-weight: bold;
+
+    /* Smooth two-color gradient fill instead of a solid color. */
+    -fx-text-fill: linear-gradient(to bottom, #7ee8fa, #eec0c6 50%, #ff9a9e);
+
+    /* Reflection effect: a faded mirror image beneath the text. */
+    -fx-effect: reflection(0.0, 0.65, 0.35, 0.0);
+}

@@ -1,0 +1,55 @@
+/* Task 2 styling — dark "editor" theme, all in this external stylesheet. */
+
+#app-menu-bar {
+    -fx-background-color: #2b2d42;
+    -fx-font-family: "Segoe UI";
+    -fx-font-size: 13px;
+}
+
+#app-menu-bar .label {
+    -fx-text-fill: #edf2f4;
+}
+
+/* Hover / selected color for top-level menus (File, Edit, Help). */
+#app-menu-bar .menu:hover,
+#app-menu-bar .menu:showing {
+    -fx-background-color: #ef233c;
+}
+#app-menu-bar .menu:hover .label,
+#app-menu-bar .menu:showing .label {
+    -fx-text-fill: white;
+}
+
+/* Hover / selected color for the dropdown items inside each menu. */
+.context-menu {
+    -fx-background-color: #2b2d42;
+}
+.menu-item .label {
+    -fx-text-fill: #edf2f4;
+}
+.menu-item:focused,
+.menu-item:hover {
+    -fx-background-color: #ef233c;
+}
+.menu-item:focused .label,
+.menu-item:hover .label {
+    -fx-text-fill: white;
+}
+
+#editor-area {
+    -fx-font-family: "Consolas";
+    -fx-font-size: 16px;
+    -fx-text-fill: #edf2f4;
+    -fx-highlight-fill: #ef233c;
+    -fx-highlight-text-fill: white;
+}
+
+#editor-area .content {
+    -fx-background-color: #1a1a2e;
+    -fx-padding: 12px;
+}
+
+#editor-area .scroll-pane,
+#editor-area .scroll-pane .viewport {
+    -fx-background-color: #1a1a2e;
+}
